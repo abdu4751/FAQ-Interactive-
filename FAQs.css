@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    padding: 30px 0px;
+}
+.middle-box{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+h3{
+    padding: 15px;
+    background-color: yellowgreen;
+    position: relative;
+    font-weight: 500;
+    cursor: pointer;
+}
+span{
+    position: absolute;
+    right: 15px;
+}
+p{
+    border: 1px solid #cccc;
+    padding: 10px;
+    display: none;
+}
+.FAQs-items{
+    margin-bottom: 20px;
+}
+.showerAnswer{
+    display: block !important;
+}
