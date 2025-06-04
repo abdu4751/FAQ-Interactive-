@@ -5,4 +5,5 @@ FAQ-Master is a JavaScript-powered FAQ accordion that allows users to expand and
 - Dynamic FAQ toggling for better organization
 - Event-driven JavaScript logic for a smooth UI experience
 - Lightweight and easy to integrate
-![FAQ-Master Preview](images/https://github.com/abdu4751/FAQ-Interactive-/blob/1bc86483d1ca6ef6acdba6c776f4a66240143123/FAQProject.PNG)
+![FAQ-Master Preview](https://github.com/abdu4751/FAQ-Interactive-/blob/1bc86483d1ca6ef6acdba6c776f4a66240143123/FAQProject.PNG)
+
